@@ -1,0 +1,28 @@
+/* body{
+    background-color: aqua;
+} */
+h1{
+    color: red; 
+    font-size: 100px;
+}
+p{
+    color: gold;
+}
+.harshu
+{
+    background-color: #C3FF99;
+    width: 180px;
+}
+.harsh
+{
+    background-color: red;
+  
+}
+.circle
+{
+    border-radius: 100%;
+}
+
+img:hover{
+          background-color: gold;
+}

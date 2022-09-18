@@ -1,0 +1,20 @@
+body{
+    background-color: #EAF6F6;
+    color: #323232;
+}
+hr{
+    /* background-color: white;   "hm ye nhi kr skte qki ye default css value hai */
+    border-style: none;
+    /* height: 2px;     "hm ye kr skte hai but m nhi kr rha hu" */
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+} 
+
+h1{
+    color: #66bfbf;
+}
+h3{
+    color: #66BFBF;
+}
