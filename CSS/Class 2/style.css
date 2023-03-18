@@ -1,0 +1,10 @@
+.box
+{
+    border:1px solid black;
+    height: 250px;
+    width:350px;
+    background-image: linear-gradient(aqua,red);
+    background-image: linear-gradient(to right,aqua,red);
+    background-image: linear-gradient(#FF671F,white,#046A38);
+
+}
