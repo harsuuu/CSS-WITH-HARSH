@@ -1,0 +1,7 @@
+.main
+{
+    border: 1px solid violet;
+    width: 200px;
+    height: 200px;
+    background-image: radial-gradient(aqua, RED);
+}
