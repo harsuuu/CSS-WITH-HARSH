@@ -1,0 +1,7 @@
+.box
+{
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+    background-image:conic-gradient(#FF671F,white,#046A38);
+}
