@@ -1,0 +1,13 @@
+/* max height */
+.box
+{
+    max-height: 80px;
+    border: 1px solid black;
+    overflow: scroll;
+}
+.main
+{
+    margin: 10px;
+    min-height: 50px;
+    border: 1px solid black;
+}
