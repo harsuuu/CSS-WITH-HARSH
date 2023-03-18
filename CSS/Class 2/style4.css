@@ -1,0 +1,20 @@
+h1{
+    text-shadow: 3px 3px 3px pink;
+    /* multiple shadow */
+    text-shadow: 3px 3px 3px pink , 5px 5px 5px blue;
+}
+.box
+{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 10px yellow, 10px 10px 10px black;
+}
+.main
+{
+    background-color: aqua;
+    margin: 40px;
+    width: 200px;
+    height: 200px;
+    box-shadow: -10px -10px 10px red, 10px 10px 10px blue;
+} 
