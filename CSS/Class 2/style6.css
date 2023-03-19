@@ -1,0 +1,13 @@
+.box
+{
+    margin: 20px;
+    background-color: aquamarine;
+    /* transform: translate(10px,20px); */
+    /* transform: rotate(45deg); */
+    /* zoom k liye scale */
+    /* transform: scale(1,2); */ 
+    /* teda krna hai to skew use kreneg
+    transform: skew(40deg); */
+
+    /* matrix ka use sari prooerties single line m kr skte hai  */
+}
