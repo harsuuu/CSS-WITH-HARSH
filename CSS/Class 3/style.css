@@ -1,0 +1,21 @@
+.container
+{
+    color: black;
+    border: 5px solid rgb(22, 38, 2);
+    height: 400px;
+    /* Box flex box m badal jayega. */
+    display: flex;
+    /* direction dene ke liye block ko. */
+    /* flex-direction:column; */
+    /* flex-direction:row; */
+    /* flex-direction:row-reverse; */
+    /* flex-direction:column-reverse; */
+    /* agr hme iski width preseve krni hai to flex-wrap:wrap; set krna pdega. */
+    /* flex-wrap: wrap-reverse; */
+    /* flex-wrap: nowrap; */
+    flex-wrap: wrap;   
+}
+.box{
+    border: 1px solid red;   
+    background-color: aqua;
+}
