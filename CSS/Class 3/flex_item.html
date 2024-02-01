@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <style>
+    .container
+    {
+    border: 2px solid gray;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  
+}
+.box{
+    border: 2px solid black;  
+    background-color: red;
+    color: green;
+    /* agr hme sbhi ki widht equal krni hai to flex grow use krenge. */
+    /* flex-grow: 1; */
+}
+/* isse hm box ko idhar udhar kr skte hai.*/
+#b1{
+    order: 1;
+    flex-grow: 1;
+}
+   </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box"id="b1">box-1</div>
+        <div class="box">box-2</div>
+        <div class="box">box-3</div>
+        <div class="box">box-4</div>
+    </div>
+</body>
+</html>
